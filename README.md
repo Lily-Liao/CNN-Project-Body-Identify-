@@ -15,7 +15,7 @@
 6.將未訓練的測試資料透過訓練好的模型預測，評估其模型正確率  
 
 ### 模型摘要：
-
+![image](https://github.com/Lily-Liao/CNN-Project-Body-Identify-/blob/main/model.png)
 ### 訓練過程：
 * accuracy執行結果:  
 ![image](https://github.com/Lily-Liao/CNN-Project-Body-Identify-/blob/main/accuracy.png)
